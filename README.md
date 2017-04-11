@@ -24,6 +24,24 @@ The following **additional** features are planned:
 - [ ] List anything else that you can get done to improve the app functionality!
 - [ ] Event planning : Have Users be able to plan events with each other
 
+## Configuration
+What is your product pitch?
+
+Start with a problem statement and follow up with a solution.
+Focus on engaging your audience with a relatable need.
+Who are the key stakeholders for this app?
+Who will be using this?
+What will they be using this for?
+What are the core flows?
+What are the key functions?
+What screens will each user see?
+What will your final demo look like?
+Describe the flow of your final demo
+What mobile features do you leverage?
+Leverage at least two mobile-oriented features (i.e. maps and camera)
+What are your technical concerns?
+What technical features do you need help or resources for?
+
 ## License
 
     Copyright 2017 [Vivian Pham, Edduardo Carrillo, and Vinnie Chen]
